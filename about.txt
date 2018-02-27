@@ -1,0 +1,1 @@
+This set of directories contain the CSS website design projects assigned in Coding Dojo's Web Fundamentals course. The students were given a screenshot or picture of a website and asked to recreate it using HTML and CSS.

@@ -1,0 +1,270 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.wrapper{
+    width: 970px;
+    background: linear-gradient(180deg, grey .5%, white, white);
+    margin-top: 50px;
+}
+
+.title-image{
+    position: absolute;
+    z-index: 20px;
+    bottom: 620px; 
+    margin: 0px 0px 0px 0px; 
+   
+}
+
+.globe-img{
+    width: 75px;
+    height: 75px;
+    display: inline-block;
+}
+
+.float-above-title{
+    font-size: 20px;
+    display: inline-block;
+    z-index: 20;
+    position: relative;
+    color: #474747;
+}
+
+.float-highlight{
+    color: #24659f;
+}
+
+.subtitle{
+    color: white;
+    font-size: 20px;
+    background: linear-gradient( #2867a0, #4a7eaa, #2867a0);
+    padding: 20px;
+}
+
+.left-side{
+    display: inline-block;
+}
+
+.internet{
+    color: red;
+}
+
+.upper-left{
+    margin: 20px 0px 0px 2px;
+    display: inline block;
+    width: 200px;
+    border-bottom: 2px solid grey; 
+}
+
+.upper-left h4{
+    margin-bottom: 10px;
+}
+
+.upper-left-paragraph {
+    font-weight: 700;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+button{
+    box-shadow: 0 8px 13px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.upper-left-buttons{
+    width: 200px;
+    margin-bottom: 25px;
+}
+
+.watch-button{
+    background: linear-gradient( #6398c3, #28669e);
+    color: white;
+    font-size: 13px;
+    border-radius: 5px;
+    height: 35px;
+    width: 100%;
+}
+
+.resources-button{
+    background: linear-gradient( #ecb667,#f07400);
+    color: white;
+    font-size: 13px;
+    border-radius: 5px;
+    height: 35px;
+    width: 100%;
+}
+
+.lower-left{
+    width: 200px;
+    display: inline-block;
+}
+
+.advertisment{
+    display: inline-block;
+    width: 200px;
+    margin: 35px 0px 0px 2px;
+
+}
+
+.ad-background{
+    width: 100%;
+    margin: 35px 0px 0px 2px;
+}
+
+.ad-text{
+    color: white;
+    display: inline-block;
+    position: absolute;
+    top: 56%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    font-size: 23px;
+    text-align: center;
+    margin: 30px 60px 0px 0px;
+}
+
+.ninja-man{
+    display: inline-block;
+    position: absolute;
+    top: 56%;
+    left: 9%;
+    transform: translate(-50%, -50%);
+    width: 80px;
+    margin-top: 120px;
+}
+
+.ad-button{
+    color: white;
+    background: linear-gradient( #53cbe0,#00c1df);
+    border-radius: 5px;
+    width: 170px;
+    height: 30px;
+    margin-top: 190px;
+    position: absolute;
+    bottom: 10%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+}
+
+.content{
+    width: 700px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 40px;
+}
+
+.top-content{
+    width: 700px;
+    border-bottom: 1px solid grey; 
+    display: inline-block;
+    vertical-align: top;
+}
+
+.home-content{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.home-icon{
+    width: 20px;
+    display: inline-block;
+}
+
+.home-text{
+    color: #23649e;
+    display: inline-block;
+    margin-left: 0px;
+}
+
+.contact-information{
+    text-align: right;
+    display: inline-block;
+    margin-left: 500px;
+    vertical-align: top;
+}
+
+.phone-icon{
+    width: 30px;
+    display: inline-block;
+    margin: 0px 2px 0px 0px;
+}
+
+.contact-text{
+    list-style-type: none;
+    display: inline-block;
+
+}
+
+.contact-info{
+    color: black;
+    font-size: 5px;
+}
+
+.contact-number{
+    font-size: 15px;
+    color: #00c1df;
+}
+
+.main-content{
+    width: 700px;
+    height: 420px;
+    margin: 5px 0px 30px 0px;
+    display: inline-block;
+}
+
+.main-content-header{
+    color: #23649e;
+}
+
+.main-highlight{
+    color: #009cb3;
+}
+
+.first-main-list{
+    margin-left: 40px;
+}
+.server-image{
+    width: 30%;
+    display: block;
+    margin: auto;
+    padding: 10px;
+}
+
+.second-main-list{
+    margin-left: 40px;
+}
+.lower-content{
+    width: 660px;
+    height: 150px;
+    margin: 0 auto;
+    border: 5px solid #0087e0;
+    display: block;
+}
+
+.lower-content h3{
+    color: #23649e;
+    vertical-align: top;
+    display: inline-block;
+    margin: 10px;
+}
+
+.technologies-image{
+    width: 20%;
+    float: left;
+    display: inline-block;
+    margin: 10px;
+}
+
+.lower-content p{
+    width: 75%;
+    display: inline-block;
+}
+
+.lower-content h3, p{
+    margin-left: 10px;
+}
+
+.lower-content a{
+    text-decoration: none;
+}

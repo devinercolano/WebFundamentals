@@ -1,0 +1,204 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.wrapper{
+    width: 970px;
+    background: white;
+}
+
+.main-icon{
+    height: 100%;
+}
+.nav-button{
+    border-right: 1px solid grey; 
+    display: inline-block;
+    text-align: center;
+}
+
+.nav{
+    background-color: #e5e5e5;
+    box-shadow: 1px 1px;
+    border-radius: 10px;
+    width: 95%;
+    margin: 20px 0px 30px 70px;
+    padding: 0px 0px;
+    font-size: 29px;
+    display: inline-block;
+}
+
+.nav a{
+    padding: 9px;
+    text-decoration: none;
+    color: #444544;
+}
+
+.search-box{
+    display: inline-block;
+    margin: 0px 0px 30px 130px;
+}
+
+.search-box input{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin: 0px;
+}
+
+.main-content{
+    width: 95%;
+    margin: 0px 0px 0px 70px;
+}
+
+.main-image{
+    width: 924px;
+    height: 440px;
+    display: block;
+}
+
+.carousel{
+    width: 924px;
+    background: linear-gradient(#4f4d4d, #3f3f3f);
+    border-bottom-left-radius: 10px;
+}
+
+.carousel-text{
+    display: inline-block;
+    color: #9ac0db;
+    font-size: small;
+    margin: 5px 10px 9px 7px;
+
+}
+
+.carousel-text p{
+     border-right: 1px solid #3f3f3f; 
+
+}
+
+.selected-image{
+    color: white;
+}
+
+.content{
+    width: 924px;
+    border: 1px solid #dedede;
+    background: linear-gradient(#ffffff, #f2f2f2);
+    margin: 10px 0px 0px 70px;
+    border-radius: 5px;
+
+}
+
+.content-title{
+    border-right: 1px solid #c5c5c5;
+    margin: 10px 80px 10px 10px;
+    display: inline-block;
+    color: #c5c5c5;
+    padding-right: 40px;
+ 
+}
+
+.browse-store{
+    display: inline-block;
+    background: linear-gradient( #5493bc,#3f708f);
+    height: 40px;
+    color: white;
+    border-radius: 5px;
+    padding: 0px 102px 0px 9px;
+    margin-bottom: 6px;
+
+}
+
+.sub-sections{
+    border-top: 1px solid #c5c5c5;
+}
+
+.content-icon{
+    display: inline-block;
+    width: 20px;
+    margin: 20px 0px 0px 15px;
+
+}
+
+.content-header{
+    display: inline-block;
+    color: black;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+
+}
+
+.content-text{
+    font-size: small;
+    text-align: left;
+    margin: 15px 0px 10px 7px;
+
+}
+
+.content-button{
+    display: inline-block;
+    margin: 0px 0px 20px 50px;
+    background: linear-gradient(#5fb7f6, #59a0d6);
+    border-radius: 5px;
+    color: white;
+    height: 20px;
+    width: 135px;
+    padding: 1px 10px 1px 10px;
+
+}
+
+.video-preview, .tour-of-ten, .free-trial, .ready-to-buy{
+    border-right: 1px solid #c5c5c5;
+    display: inline-block;
+    width: 24%;
+}
+
+.watch-now, .take-the-tour, .start-your-trial, .find-products{
+    display: inline-block;
+    margin: 0px 0px 0px 60px;
+
+}
+
+.ready-to-buy{
+    border-right: none;
+}
+
+.empty-space{
+    border: 1px solid #c5c5c5;
+    height: 50px;
+}
+
+.bottom-container{
+    width: 924px;
+    margin: 40px 0px 0px 70px;
+}
+
+.about-list, .platform-list, .store-list, .support-list, .community-list, .oakTree-list{
+    display: inline-block;
+    margin: 0px 30px 0px 0px;
+}
+
+.bottom-nav-list-header{
+    border-bottom: 1px solid #c5c5c5;
+    padding: 0px 0px 20px 0px;
+}
+
+.bottom-nav-list{
+    font-size: small;
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+
+}
+
+.footer{
+    border-top: 1px solid #c5c5c5;
+    margin: 30px 0px 30px 0px;
+}
+
+.footer-text{
+    display: inline-block;
+    color: black;
+    font-size: small;
+    padding: 10px 10px 0px 0px;
+}

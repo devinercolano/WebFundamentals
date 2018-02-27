@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h2{
+    background: linear-gradient(#d9d9d9, #c0c0c0, #d9d9d9);
+}
+.header{
+    color: Black;
+    display: inline;
+}
+
+.blurb{
+    text-align: right;
+    display: inline;
+    padding-left: 575px;
+}
+#wrapper{
+    height: 746px;
+    width: 970px;
+    background-color: #f2f2f2;
+    display: block;
+
+}
+
+#background{
+    background: linear-gradient(#4f1a31,#ffffff, #4f1a31);
+    padding: 10px;
+}
+
+#profile_pic{
+    height: 167px;
+    width: 322px;
+    display: inline-block;
+    border: solid;
+    border-color: #f2f2f2;
+    border-width: 5px;
+}
+
+#about{
+    height: 167px;
+    width: 590px;
+    display: inline-block;
+    background-color: #f2f2f2;
+    vertical-align: top;
+    margin-left: 10px;
+}
+
+p{
+    font-size: small;
+    text-align: left;
+}
+
+a{
+    color: black;
+}
+
+.content{
+    height: 449px;
+    width: 289px;
+    background-color: #f2f2f2;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+    vertical-align: top;
+}
+
+.content h2{
+    color: white;
+}
+.project_photo{
+    height: 100px;
+    width: 227px;
+    display: block;
+}
+
+.tech_badge{
+    height: 34px;
+    width: 34px;
+    display: inline;
+    padding: 3px;
+    margin-left: 2px;
+}
+
+.networking_badge{
+    height: 10px;
+    width: 10px;
+}
+.center_button{
+    text-align: center;
+}
+.button{
+    text-align: center;
+    display: inline; 
+    vertical-align: bottom;
+    background-color: #82c59e;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 1px 1px;
+    margin-left: 10px;
+}
+
+#footer{
+    text-align: center;
+}

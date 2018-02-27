@@ -1,0 +1,88 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+ font-family: 'Times New Roman', Times, serif;
+ color: #e0e0eb;
+}
+a{
+   color: #1affff;
+}
+#navigation ul > li {
+ margin-left: 10px;
+ text-decoration: underline;
+ color: #1affff;
+
+}
+#wrapper{
+ width: 970px;
+ height: 600px;
+ background-color: #002b80;
+ margin: 0px auto;
+ padding: 10px;
+}
+#header{
+ border-radius: 20px;
+ height: 81px;
+ background-color: #ff3333;
+ display: block;
+ margin: 20px;
+ position: relative;
+ text-align: left;
+ font-size: 20px;
+ font-weight: 100;
+}
+
+h1{
+ padding: 10px;
+}
+#navigation{
+ border-radius: 20px;
+ height: 202px;
+ width: 175px;
+ background-color: #b3ffff;
+ display: inline-block;
+ padding: 17px;
+}
+#main_content{
+ border-radius: 20px;
+ height: 439px;
+ width: 722px;
+ background-color: #000066;
+ margin-left: 233px;
+ margin-top: -237px;
+ display: inline-block;
+
+}
+
+#main_text{
+    color: white;
+    font-size: small;
+    height: 400px;
+    width: 700px;
+    margin-left: 246px;
+    margin-top: -429px;
+}
+
+.highlight{
+ color: #9999ff;
+}
+
+#home{
+ list-style-type: none;
+}
+
+#footer{
+ border-radius: 20px;
+ height: 44px;
+ width: 948px;
+ background-color:#737373;
+ margin-top: 28px;
+ margin-left: 6px;
+ display: inline-block;
+ text-align: left;
+}
+
+#footer_text{
+ padding: 10px;
+}
